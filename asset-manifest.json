@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/christianjstam.io/static/css/main.54bc6d62.css",
-    "main.js": "/christianjstam.io/static/js/main.08ef9ed0.js",
-    "index.html": "/christianjstam.io/index.html",
-    "main.54bc6d62.css.map": "/christianjstam.io/static/css/main.54bc6d62.css.map",
-    "main.08ef9ed0.js.map": "/christianjstam.io/static/js/main.08ef9ed0.js.map"
+    "main.css": "/static/css/main.54bc6d62.css",
+    "main.js": "/static/js/main.08ef9ed0.js",
+    "index.html": "/index.html",
+    "main.54bc6d62.css.map": "/static/css/main.54bc6d62.css.map",
+    "main.08ef9ed0.js.map": "/static/js/main.08ef9ed0.js.map"
   },
   "entrypoints": [
     "static/css/main.54bc6d62.css",
